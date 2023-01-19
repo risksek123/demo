@@ -1,1 +1,3 @@
 fastapi_utils==0.2.1
+sunos==3.0
+irix==5.0
